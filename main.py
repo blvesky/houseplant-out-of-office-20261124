@@ -11,7 +11,7 @@ characters and not only whitespace, or the entry is never judged.
 import os
 import sys
 
-TEXT = "Out of office. I've been ignored since March and I'm thriving on spite and tap water. Back when someone remembers me."
+TEXT = "Out of office. Ignored since March, thriving on spite and tap water. I'll reply when someone remembers I exist."
 
 OUTPUT = "/output/entry.txt"
 
